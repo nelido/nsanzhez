@@ -1,0 +1,21 @@
+Título: Dbview (Editor de tablas xbase)
+Compilación: © Octubre-2023
+Desarrollador: Nélido Sánchez Alvarez, Informático-Santa Clara, Cuba
+
+El Dbview es una herramienta para gestionar la estructura y el contenido de cualquier 
+tabla (xbase) dando la posibilidad de borrar todo su contenido, insertar-modificar-
+eliminar filas o columnas, repetir valores de la fila anterior, cambiar la dirección 
+del desplazamiento al dar enter, ordenar por una o varias columnas, hacer búsquedas 
+de información, reemplazar valores, añadir datos desde otra tabla o archivo txt y 
+copiar datos hacia otra tabla o archivo txt estableciendo opcionalmente condiciones 
+o filtros. Esta aplicación es muy útil para el desarrollo o la actualización de nuevos 
+sistemas informáticos.
+
+La aplicación Dbview es freeware y se entrega con una licencia gratis por un período de 
+40 días sin restricciones de copia de ningún tipo. Se puede instalar automáticamente 
+para 32 ó 64 bits según el tipo de SO instalado en la PC.
+
+Instalación del Dbview
+
+1-Ejecutar el DbviewSetup-en.exe o DbviewSetup-es.exe (inglés-español)
+2-Abrir cualquier tabla xbase (.dbf) con la aplicación c:\Dbview\Dbview.exe
